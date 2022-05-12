@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Madhumidha
-<h3>I want to become a full-stack developer</h3>
-<img src="https://miro.medium.com/max/900/1*Dc5f6x9KxALujjUDzn7PWw.jpeg" alt="mern" />
+
+<div id="header" align="center">
+   <h3>My Goal is to become a</h3>
+<img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" alt="mern" height="100" />
+<h3>Stack developer</h3>
+</div>
+
 
 ## ⚡ Things I code with
 
@@ -18,10 +23,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
+
+
 ## 😄 Cool Stats
 
-![Madhumidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumidha10&show_icons=true&theme=radical)
+![Madhumidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumidha10&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumidha10&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumidha10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumidha10&layout=compact&theme=radical&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumidha10&layout=compact&langs_count=3)
