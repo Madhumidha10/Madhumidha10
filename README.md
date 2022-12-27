@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
    <h3>My Goal is to become a</h3>
-<img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" alt="mern" height="100" />
+<img src="https://th.bing.com/th/id/OIP.aqgd4nkMx_Oz4oCsvzP20wHaEK?w=319&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7" alt="mern" height="100" />
 <h3>Stack developer</h3>
 </div>
 
